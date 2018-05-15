@@ -1,8 +1,8 @@
 # ICO_SCRUM_YDGn
 Equipo: YDGn
 Integrantes:
-Lira Mendoza Verónica - Product Owner
-García Bazán Vanesa Pewalty - Scrum Master
-Chávez Ceballos Kiana Alejandra - Scrum Team
-Ramirez Castillo Ángel Oswaldo - Scrum Team, Correo: weskeryoka@gmail.com
-Marínez Espíritu José Luis - Scrum Team, correo: joseloespritu_8v@hotmail.com
+Lira Mendoza Verónica - Product Owner 
+García Bazán Vanesa Pewalty - Scrum Master, Correo: pewalty@hotmail.com
+Chávez Ceballos Kiana Alejandra - Scrum Team 
+Ramirez Castillo Ángel Oswaldo - Scrum Team, Correo: weskeryoka@gmail.com 
+Marínez Espíritu José Luis - Scrum Team, correo: joseloespritu_8v@hotmail.com 
